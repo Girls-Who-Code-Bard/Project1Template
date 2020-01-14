@@ -9,7 +9,7 @@ TO CLUB MEMBERS:
 2. Upload your code on the Bard GWC Github repository (here).
 
 
-
+<img src ="http://g.recordit.co/i7VSd7cGXr.gif" width= 500 height= 500>
 
 
 CODE CREDIT:
