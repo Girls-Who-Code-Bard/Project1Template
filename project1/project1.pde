@@ -28,8 +28,8 @@ float y(float t) {    // parematic function for y, takes in t as a parameter
 
 
 /*
-NOTES (line 31-37):
-o Diving t decreases the frequency
+NOTES ():
+o Dividing t decreases the frequency
 o Multipying t increases the frequency
 o The coefficient inside of the sin wave increase the frequency, the coefficient
   outisde of the sin wave increase the amplitude 
