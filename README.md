@@ -17,8 +17,4 @@ TO CLUB MEMBERS:
 <img src ="http://g.recordit.co/i7VSd7cGXr.gif" width= 500 height= 500>
 
 
-CODE CREDIT:
-Youtube: 'Recreating Vintage Computer Art with Processing' by
-Alexander Miller
-
 
