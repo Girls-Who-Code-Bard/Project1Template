@@ -1,0 +1,21 @@
+Computer Art
+
+Try these out to see what you can make
+
+1.
+return t;
+return sin(t / 10) * 100;
+
+2.
+return t
+return sin(t * 2) * 100;
+
+3.
+return sin(t / 10) * 100 + sin(t) * 100;
+return cos(t /10) * 100;
+
+4.
+return sin(t / 10) * 100 + sin(t /5) * 20;
+return cos(t / 10) * 100;
+return sin(t / 10) * 200 + sin(t) * 2;
+retun cos(t / 20) * 200 + cos(t / 12) * 20;
